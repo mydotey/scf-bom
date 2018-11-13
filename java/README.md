@@ -10,7 +10,7 @@ Dependency bom for [SCF](https://github.com/mydotey/scf).
             <dependency>
                 <groupId>org.mydotey.scf</groupId>
                 <artifactId>scf-bom</artifactId>
-                <version>1.5.1</version>
+                <version>1.5.2</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
