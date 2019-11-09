@@ -5,7 +5,7 @@ Dependency bom for [SCF](https://github.com/mydotey/scf).
 ## NuGet Package
 
 ```sh
-dotnet add package MyDotey.SCF.Bom --version 1.5.2
+dotnet add package MyDotey.SCF.Bom --version 1.6.0
 ```
 
 ## Developers
