@@ -8,7 +8,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">Apache-2.0</license>
     <projectUrl>https://github.com/mydotey/scf-bom</projectUrl>
-    <icon>http://numl.net/images/ico.png</icon>
+    <iconUrl>http://numl.net/images/ico.png</iconUrl>
     <description>SCF, short for Simple Configuration Facade, an abstraction between code and outer configuration</description>
     <releaseNotes>SCF, short for Simple Configuration Facade, an abstraction between code and outer configuration</releaseNotes>
     <copyright>koqizhao</copyright>
